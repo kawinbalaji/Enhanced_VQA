@@ -7,5 +7,5 @@ SpeechRecognition
 gtts
 Pillow
 dotenv
-
+ipython
 
