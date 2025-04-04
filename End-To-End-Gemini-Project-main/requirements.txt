@@ -1,0 +1,13 @@
+streamlit
+google-generativeai
+python-dotenv
+streamlit-option-menu
+firebase_admin
+speech_recognition == 3.9.0
+gtts
+io
+os
+PIL
+dotenv
+
+
