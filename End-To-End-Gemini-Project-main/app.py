@@ -9,7 +9,7 @@ import requests
 import base64
 from streamlit_extras.stylable_container import stylable_container
 
-cred = credentials.Certificate("viques-0c0a1dc83a2d.json")
+cred = credentials.Certificate("firebase-key.json")
 #firebase_admin.initialize_app(cred)
 
 
