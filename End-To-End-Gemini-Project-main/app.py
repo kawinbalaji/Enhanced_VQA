@@ -222,7 +222,12 @@ if not st.session_state["signedout"]:  # only show if the state is False, hence 
 
 
     # Example usage
-    set_bg_image("bg.png")
+    # set_bg_image("bg.png")
+    import os
+
+    img_path = os.path.join(os.path.dirname(__file__), "bg.png")
+    set_bg_image(img_path)
+
 
 if st.session_state.signout:
     def intro():
