@@ -8,4 +8,6 @@ gtts
 Pillow
 dotenv
 ipython
+requests
+streamlit-extras
 
